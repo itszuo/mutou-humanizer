@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+# Personal writing baselines and drafts
+去ai味-风格档案.md
+banlist.md
+samples/
+修改记录.md
+baseline/
+private/
